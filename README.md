@@ -9,3 +9,6 @@ Functionalities
 4. Announcements: Teachers can add/edit/delete announcements. Students can only view the announcements.
 5. Messaging: All the system users can send individual messages to each other.
 6. Stream: Each course has an own stream. Participants can communicate on the stream page using posts and comments. Teachers can add/edit/delete posts. Teachers and students can send comments as response to a post.
+
+## LICENSE
+MIT LICENSE
